@@ -31,3 +31,6 @@ Replaced the failing Broadcom BCM94360CS2 WiFi/BT PCIe adapter with a Fenvi FV-H
 
 ## Update 2019-12-27
 All of a sudden I had the dreaded 'Couldn’t allocate runtime area' boot error, after months of trouble free hackintoshing. Despite a variety of slide values calculated from a memmap output, nothing seemed to work. I tried disabling a few things in the BIOS (LED lighting, USB legacy support, etc) but nothing fixed it. I finally disabled the iGPU and the system booted fine again. Owing to that, I've now changed to iMacPro1,1 SMBIOS and all seems well again - power management looks to be fine, previews work great and us the dGPU, as does video encoding, Premiere Pro, etc. I updated Clover and some kexts that had updates too before upgrading to macOS 10.15.2 which is running great so far...
+
+## Update 2020-04-01
+Updates for 10.15.4 and NVRAM support, everything is latest and greatest, still working perfectly.

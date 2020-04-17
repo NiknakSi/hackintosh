@@ -34,3 +34,6 @@ All of a sudden I had the dreaded 'Couldn’t allocate runtime area' boot error,
 
 ## Update 2020-04-01
 Updates for 10.15.4 and NVRAM support, everything is latest and greatest, still working perfectly.
+
+## Update 2020-04-17
+Updates for 10.15.4 supplemental update
